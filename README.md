@@ -1,6 +1,12 @@
 # Aprendizado por Projeto Integrado (API) - Template
 <img width="500" height="300" alt="Gemini_Generated_Image_s279zzs279zzs279" src="https://github.com/user-attachments/assets/30f916ef-c738-4fe7-949b-331f571d1af7" />
 
+# Introdução
+
+O projeto deste semestre tem como foco o desenvolvimento, construção e testes de um protótipo de ponte, aplicando conhecimentos de Engenharia de Produção relacionados à mecânica dos sólidos, resistência dos materiais, seleção de materiais, planejamento e controle do processo de fabricação.
+A proposta consiste em desenvolver uma ponte capaz de vencer um vão livre de 80 cm, sem apoios intermediários, atendendo aos requisitos de dimensões, massa, custo e resistência estabelecidos para o projeto. A solução deverá suportar uma carga mínima de 5 kg durante 60 segundos sem apresentar colapso estrutural.
+
+
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
@@ -8,11 +14,6 @@
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
-
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 
 # Equipe
