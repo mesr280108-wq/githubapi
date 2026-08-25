@@ -1,8 +1,5 @@
 # Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+<img width="500" height="300" alt="Gemini_Generated_Image_s279zzs279zzs279" src="https://github.com/user-attachments/assets/30f916ef-c738-4fe7-949b-331f571d1af7" />
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -30,23 +27,16 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo desenvolver e construir um protótipo de ponte capaz de vencer um vão livre de 80 cm e suportar uma carga mínima de 5 kg durante 60 segundos, considerando aspectos de resistência, segurança, economia de materiais e eficiência estrutural.
+A proposta é desenvolver uma solução que permita:
 
-
-## Tecnologias Utilizadas
-
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
-
+* Pesquisar e analisar diferentes tipos e configurações de pontes;
+* Identificar os requisitos e restrições do projeto;
+* Avaliar diferentes alternativas de solução;
+* Selecionar o tipo de ponte mais adequado ao desafio;
+* Selecionar materiais de baixo custo e fácil aquisição;
+* Desenvolver e testar a solução considerando resistência, massa e custo;
+* Analisar o comportamento da ponte e comparar os resultados previstos com os obtidos nos ensaios.
 
 
 # Product Backlog
@@ -68,8 +58,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 04/09/2026  | Fazendo  | [MVP](MVP/sp1.md)  |
+| 02                | 25/09/2026  | A fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 30/10/2026 | A fazer  | [MVP](MVP/sp3.md)  |
+| 04               |  23/11/2026  | A fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026  | A fazer  | [MVP](#)  |
 
