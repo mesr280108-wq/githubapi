@@ -8,10 +8,11 @@ A proposta consiste em desenvolver uma ponte capaz de vencer um vão livre de 80
 
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Introdução](#Introdução)
 * [Equipe](#Equipe)
+* [Objetivo do Projeto](#Objetivo-do-Projeto)
 * [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Cronograma de evolução do Projeto](#Cronograma-de-evolução-do-Projeto)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
