@@ -82,7 +82,7 @@ A proposta é desenvolver uma solução que permita:
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| Etapa 01                | 04/09/2026  | Feito  | [MVP](Etapa-1-Conceber/Relatório-Etapa1)  |
+| Etapa 01                | 04/09/2026  | Feito  | [MVP](Etapa-1-Conceber)  |
 | Etapa 02                | 25/09/2026  | A fazer  | [MVP](MVP/sp2.md)  |
 | Etapa 03                | 30/10/2026 | A fazer  | [MVP](MVP/sp3.md)  |
 | Etapa 04               |  23/11/2026  | A fazer  | [MVP](MVP/sp3.md)  |
