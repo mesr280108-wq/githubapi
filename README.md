@@ -43,12 +43,22 @@ A proposta é desenvolver uma solução que permita:
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|  
+|1	|Alta   |	Como engenheiro, quero pesquisar e analisar alternativas de pontes, para planejar soluções adequadas ao projeto   |	1	   |
+  |2	  |Alta	  |Como engenheiro, quero selecionar o tipo de ponte, com base nos requisitos do projeto	  |1	  |
+  |3	  |Alta	  |Como engenheiro, quero estudar e selecionar os materiais, para garantir sucesso na proposta  |	1	  |
+  |4	  |Alta	  |Como engenheiro, quero gravar o vídeo de entendimento e envia-lo ao cliente  |	1	  |
+  |5	  |Alta	  |Como engenheiro, quero testar os materiais e o tipo de ponte	  |2	  |
+  |6	  |Alta	  |Como engenheiro, quero que sejam escolhidos e testados os elementos de ligação/fixação	  |2	  |
+  |7	  |Alta	  |Como engenheiro, quero criar o projeto estrutural inicial, incluindo croquis, cálculos e previsão do comportamento estrutural  |	2	  |
+  |8	  |Alta	  |Como engenheiro, quero realizar os desenhos técnicos para ter melhor visão do projeto   |	3	  |
+  |9	  |Alta	  |Como engenheiro, quero planejar a lista de materiais e o orçamento, para verificar os recursos necessários e a viabilidade econômica do projeto	  |3	  |
+  |10  |	Alta	  |Como engenheiro, quero conhecer o processo de fabricação para garantir que a construção siga o projeto definido  |	3	  |
+  |12	  |Alta  |	Como engenheiro, quero montar o protótipo final da ponte para avaliar a solução desenvolvida  |	4	  |
+  |13	  |Alta  |	Como engenheiro, quero inspecionar as dimensões e demais requisitos do protótipo  |	4	  |
+  |14	  |Alta	  |Como engenheiro, quero realizar o ensaio de carga da ponte	  |4	  |
+  |16	  |Média  |	Como engenheiro, quero apresentar a solução final e seus resultados na feira de soluções  |	4	  |
+
 
 
 
