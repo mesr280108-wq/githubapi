@@ -87,6 +87,13 @@ Uma das principais vantagens desse modelo é a capacidade de vencer grandes vão
 
 Um exemplo conhecido é a **Golden Gate Bridge**, nos Estados Unidos. No Brasil, um exemplo é a **Ponte Hercílio Luz**, em Florianópolis, uma importante estrutura metálica suspensa.
 
+### Aplicação no projeto 
+Para o projeto da Equipe Kaizen, a ponte suspensa foi considerada como uma possível alternativa de solução. O modelo apresenta a vantagem de permitir que o protótipo vença o vão livre de 80 cm sem a utilização de apoios intermediários, uma das condições estabelecidas para o projeto.
+
+Para a construção do protótipo, poderão ser utilizados cabos principais, cabos verticais, torres, tabuleiro e sistemas de ancoragem, utilizando os materiais permitidos pelo projeto. As cargas aplicadas sobre o tabuleiro serão transferidas para os cabos verticais e, posteriormente, para os cabos principais.
+
+Entretanto, será necessário avaliar a estabilidade da estrutura, a resistência das ancoragens e das ligações por colagem, além da quantidade de material necessária para sua construção. 
+
 <img width="312" height="244" alt="image" src="https://github.com/user-attachments/assets/2753ea40-877c-483c-8295-72071af4bb71" />
 
 ## Ponte em Arco
@@ -116,6 +123,9 @@ Uma característica importante desse modelo é que sua eficiência depende diret
 Para o projeto da Equipe Kaizen, a ponte em arco apresenta como principal desafio a necessidade de apoios capazes de resistir ao empuxo horizontal gerado pela curvatura, exigência que se torna mais crítica considerando que a fabricação da ponte deverá ser feita exclusivamente por colagem, sem uso de parafusos ou pinos.
 
 Além disso, a construção de um arco em pequena escala exige controle preciso da geometria e das uniões coladas ao longo da curva, o que pode aumentar a complexidade de fabricação em relação a outras alternativas mais simples. A relação entre resistência, massa e quantidade de material deverá ser avaliada com cuidado antes da definição da solução final.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f1784d9c-8886-4842-a134-6877cb1bb55e" />
+
 
 ## Ponte Treliça
 
