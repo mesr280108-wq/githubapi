@@ -67,12 +67,12 @@ A proposta é desenvolver uma solução que permita:
 |---|---|---|---|
 | Pesquisar tipos e configurações de pontes | Equipe | 06/08 | 20/08 |
 | Receber e analisar o material do projeto | Equipe | 21/08 | 22/08 |
-| Levantar requisitos e restrições do projeto | Equipe | 22/08 | 23/08 |
-| Pesquisar alternativas de soluções para a ponte | Equipe | 23/08 | 28/08 |
+| Levantar requisitos e restrições do projeto | Maria Eduarda | 22/08 | 23/08 |
+| Pesquisar alternativas de soluções para a ponte | João Pedro, Julia, Maria Eduarda, Rosario | 23/08 | 28/08 |
 | Comparar as alternativas de solução | Equipe | 28/08 | 30/08 |
 | Definir o tipo/configuração da ponte | Equipe | 30/08 | 31/08 |
-| Organizar a documentação da Etapa 1 |  Equipe | 01/09 | 03/09 |
-| Preparar e gravar o vídeo da Etapa 1 |  Equipe | 02/09 | 03/09 |
+| Organizar a documentação da Etapa 1 |  Júlia e Maria Eduarda | 01/09 | 03/09 |
+| Preparar e gravar o vídeo da Etapa 1 |  Heitor | 02/09 | 03/09 |
 | Revisar e finalizar a entrega | Equipe | 03/09 | 04/09 |
 
 
