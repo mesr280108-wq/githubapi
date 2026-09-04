@@ -89,6 +89,34 @@ Um exemplo conhecido é a **Golden Gate Bridge**, nos Estados Unidos. No Brasil,
 
 <img width="312" height="244" alt="image" src="https://github.com/user-attachments/assets/2753ea40-877c-483c-8295-72071af4bb71" />
 
+## Ponte em Arco
+
+A ponte em arco é uma das configurações estruturais mais antigas, na qual o carregamento é transmitido principalmente por esforços de compressão ao longo da curva do arco, em vez de flexão predominante, como ocorre na ponte de viga. O tabuleiro pode ser apoiado sobre o arco (arco inferior), suspenso por baixo dele (arco superior, com tirantes ou pendurais) ou embutido na própria curvatura da estrutura.
+
+Quando uma carga é aplicada, o arco distribui os esforços ao longo de sua curvatura, transformando parte da carga vertical em uma força de compressão que se propaga até os apoios (encontros ou fundações). Essa força gera também uma componente horizontal, chamada de empuxo, que precisa ser resistida pelos apoios nas extremidades para que o arco não se abra ou colapse. Por trabalhar predominantemente à compressão, o arco pode utilizar materiais com boa resistência a esse tipo de esforço, mas com menor capacidade de resistir à tração.
+
+Uma característica importante desse modelo é que sua eficiência depende diretamente da geometria da curva adotada e da rigidez dos apoios nas extremidades, já que são eles que garantem o equilíbrio do empuxo horizontal gerado pelo arco. Por isso, esse tipo de estrutura historicamente foi muito utilizado em pontes de alvenaria e pedra, capazes de vencer vãos consideráveis com boa durabilidade.
+
+#### Vantagens
+
+* Trabalha predominantemente à compressão, permitindo o uso eficiente de materiais com boa resistência a esse esforço;
+* Boa distribuição de cargas ao longo da curvatura, reduzindo a concentração de esforços em pontos isolados;
+* Historicamente comprovado como uma solução durável, com exemplos que resistem há séculos;
+* Pode vencer vãos consideráveis sem apoios intermediários, dependendo da geometria adotada.
+
+#### Desvantagens
+
+* Depende de apoios rígidos nas extremidades para resistir ao empuxo horizontal gerado pela curvatura;
+* Exige controle geométrico preciso na fabricação, já que pequenas imprecisões na curva podem comprometer a distribuição dos esforços;
+* Método construtivo mais complexo em comparação a uma viga simples, especialmente ao lidar com o formato curvo;
+* Pode exigir maior quantidade de material ou reforço nos apoios para conter o empuxo horizontal.
+
+#### Aplicação no projeto
+
+Para o projeto da Equipe Kaizen, a ponte em arco apresenta como principal desafio a necessidade de apoios capazes de resistir ao empuxo horizontal gerado pela curvatura, exigência que se torna mais crítica considerando que a fabricação da ponte deverá ser feita exclusivamente por colagem, sem uso de parafusos ou pinos.
+
+Além disso, a construção de um arco em pequena escala exige controle preciso da geometria e das uniões coladas ao longo da curva, o que pode aumentar a complexidade de fabricação em relação a outras alternativas mais simples. A relação entre resistência, massa e quantidade de material deverá ser avaliada com cuidado antes da definição da solução final.
+
 ## Ponte Treliça
 
 A ponte treliça é um tipo de estrutura formada por barras retas conectadas entre si, geralmente organizadas em padrões triangulares. Essas barras trabalham principalmente à tração e à compressão, formando uma estrutura rígida capaz de suportar grandes cargas e vencer vãos consideráveis. Diferente de uma ponte de viga convencional, a treliça distribui os esforços entre diversas barras, reduzindo a necessidade de utilizar elementos maciços e pesados.
