@@ -89,6 +89,38 @@ Um exemplo conhecido é a **Golden Gate Bridge**, nos Estados Unidos. No Brasil,
 
 <img width="312" height="244" alt="image" src="https://github.com/user-attachments/assets/2753ea40-877c-483c-8295-72071af4bb71" />
 
+## Ponte Treliça
 
+A ponte treliça é um tipo de estrutura formada por barras retas conectadas entre si, geralmente organizadas em padrões triangulares. Essas barras trabalham principalmente à tração e à compressão, formando uma estrutura rígida capaz de suportar grandes cargas e vencer vãos consideráveis. Diferente de uma ponte de viga convencional, a treliça distribui os esforços entre diversas barras, reduzindo a necessidade de utilizar elementos maciços e pesados.
 
+O funcionamento da ponte treliça depende da interação entre suas barras superiores, inferiores e diagonais. Em geral, o banzo superior é submetido principalmente à compressão, enquanto o banzo inferior trabalha principalmente à tração. As barras diagonais e verticais transferem e distribuem os esforços provocados pelas cargas do tabuleiro, levando-os até os apoios e, posteriormente, para as fundações.
+
+Uma das principais características desse modelo é sua eficiência estrutural, pois a disposição triangular das barras permite utilizar relativamente pouco material para obter uma estrutura resistente. Por isso, as pontes treliçadas são utilizadas principalmente em pontes rodoviárias e ferroviárias, especialmente quando é necessário vencer vãos maiores sem a utilização de muitos apoios intermediários.
+
+### Vantagens
+
+* Boa relação entre peso e resistência, devido à distribuição dos esforços entre várias barras;
+* Permite vencer vãos consideráveis sem a necessidade de muitos apoios intermediários;
+* Utiliza elementos estruturais relativamente esbeltos, reduzindo o consumo de material;
+* Facilidade de montagem, principalmente quando as peças são pré-fabricadas;
+* A geometria triangular proporciona alta rigidez e estabilidade à estrutura;
+* Pode ser construída utilizando diferentes materiais, como aço, concreto e madeira.
+
+### Desvantagens
+
+* Grande quantidade de barras e conexões, aumentando a complexidade da construção e da manutenção;
+* As ligações entre as barras precisam ser bem executadas para garantir a segurança e o funcionamento adequado da estrutura;
+* Pode apresentar elevado custo de manutenção, principalmente em estruturas metálicas expostas à corrosão;
+* A estrutura ocupa mais espaço visual e físico do que uma ponte de viga simples, devido à presença das treliças;
+* Para vãos pequenos, pode ser menos econômica que sistemas estruturais mais simples, pois a quantidade de elementos e conexões não compensa o ganho estrutural.
+
+### Aplicação no projeto
+
+Para o projeto da Equipe Kaizen, a ponte treliça é uma boa solução para o vão de aproximadamente 80 cm, pois distribui as cargas entre várias barras submetidas à tração e à compressão. Assim, é possível obter uma estrutura resistente e leve sem utilizar apoios intermediários.
+
+Para o protótipo de aproximadamente 1 metro, podem ser utilizadas duas treliças laterais, conectadas por barras transversais e formando triângulos. Essa configuração aumenta a rigidez e distribui melhor as cargas aplicadas sobre o tabuleiro.
+
+Como as uniões serão feitas apenas por colagem, é importante manter as barras bem alinhadas e reforçar as conexões. A estrutura também deve ser dimensionada para permanecer dentro do limite de 2 kg, evitando material desnecessário.
+
+<img width="312" height="244" alt="image" src="https://i.pinimg.com/736x/5e/95/d4/5e95d419698e127b2b4ae197557e1d66.jpg" />
 
