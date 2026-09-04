@@ -1,4 +1,4 @@
-## Referências bibliográficas
+## **Referências bibliográficas**
 
 ### ALMEIDA, L. R. T.; RODRIGUES, J. Análise de uma ponte estaiada com diferentes disposições dos estais. Revista Prociências, v. 5, n. 2, p. 2-32, 2022.
 
