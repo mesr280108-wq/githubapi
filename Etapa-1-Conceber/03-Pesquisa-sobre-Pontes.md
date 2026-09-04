@@ -63,3 +63,32 @@ Para o projeto da Equipe Kaizen, a ponte estaiada apresenta como principal limit
 Além disso, como o processo de união permitido é exclusivamente por colagem, a ancoragem dos estais (ponto que, em pontes reais, concentra forças elevadas e normalmente depende de sistemas metálicos ajustáveis) se tornaria um ponto crítico de fragilidade na escala do protótipo. Somado a isso, a torre representaria massa adicional que competiria diretamente com o limite de 2 kg estabelecido, sem trazer ganho proporcional na capacidade de carga.
 
 <img width="400" height="200" alt="ponte-estaiada-tipos-e-caracteristicas" src="https://github.com/user-attachments/assets/76b04bcb-475f-4692-b65b-cc8ad4803280" />
+
+## Ponte Suspensa
+
+A ponte suspensa é um tipo de ponte em que o tabuleiro fica sustentado por cabos verticais ligados a grandes cabos principais. Esses cabos passam por cima de torres e são presos nas extremidades por sistemas de ancoragem. As principais partes da estrutura são as torres, os cabos principais, os cabos verticais, o tabuleiro e as ancoragens.
+
+O peso do tabuleiro e das cargas é transferido para os cabos verticais e, depois, para os cabos principais. Os cabos trabalham principalmente à **tração**, enquanto as torres recebem as forças e as transferem para as fundações.
+
+Uma das principais vantagens desse modelo é a capacidade de vencer grandes vãos sem precisar de muitos apoios no espaço que está sendo atravessado.
+
+### Vantagens
+
+* Capacidade de vencer grandes vãos;
+* Não precisa de muitos apoios no espaço que está sendo atravessado;
+* Utilização de cabos que trabalham principalmente à tração.
+
+### Desvantagens
+
+* Estrutura mais complexa;
+* Exige cabos, torres e ancoragens resistentes;
+* Necessidade de considerar a ação do vento;
+* Necessidade de manutenção adequada dos elementos da estrutura.
+
+Um exemplo conhecido é a **Golden Gate Bridge**, nos Estados Unidos. No Brasil, um exemplo é a **Ponte Hercílio Luz**, em Florianópolis, uma importante estrutura metálica suspensa.
+
+<img width="312" height="244" alt="image" src="https://github.com/user-attachments/assets/2753ea40-877c-483c-8295-72071af4bb71" />
+
+
+
+
