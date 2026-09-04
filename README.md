@@ -45,10 +45,10 @@ A proposta é desenvolver uma solução que permita:
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|  
-|1	|Alta   |	Como engenheiro (a), quero pesquisar e analisar alternativas de pontes, para planejar soluções adequadas ao projeto   |	   |	1	   |
-  |2	  |Alta	  |Como engenheiro (a), quero selecionar o tipo de ponte, com base nos requisitos do projeto   |		  |1	  |
-  |3	  |Alta	  |Como engenheiro (a), quero estudar e selecionar os materiais, para garantir sucesso na proposta   |	  |	1	  |
-  |4	  |Alta	  |Como engenheiro (a), quero gravar o vídeo de entendimento e envia-lo ao cliente   |	  |	1	  |
+|1	|Alta   |	Como engenheiro (a), quero pesquisar e analisar alternativas de pontes, para planejar soluções adequadas ao projeto   |	20/08/2026   |	1	   |
+  |2	  |Alta	  |Como engenheiro (a), quero selecionar o tipo de ponte, com base nos requisitos do projeto   |	22/08/2026	  |1	  |
+  |3	  |Alta	  |Como engenheiro (a), quero estudar e selecionar os materiais, para garantir sucesso na proposta   |	31/08/2026  |	1	  |
+  |4	  |Alta	  |Como engenheiro (a), quero gravar o vídeo de entendimento e envia-lo ao cliente   |	03/09/2026  |	1	  |
   |5	  |Alta	  |Como engenheiro (a), quero testar os materiais e o tipo de ponte   |		  |2	  |
   |6	  |Alta	  |Como engenheiro (a), quero que sejam escolhidos e testados os elementos de ligação/fixação   |		  |2	  |
   |7	  |Alta	  |Como engenheiro (a), quero criar o projeto estrutural inicial, incluindo croquis, cálculos e previsão do comportamento estrutural   |	  |	2	  |
