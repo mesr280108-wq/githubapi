@@ -30,6 +30,9 @@ Entretanto, como o protótipo deverá suportar uma carga mínima sem a utilizaç
 
 Dessa forma, a ponte de viga foi considerada como uma das alternativas para análise durante a Etapa 1, sendo necessária a comparação com outros tipos de pontes antes da escolha definitiva da solução.
 
+<img width="300" height="222" alt="image" src="https://github.com/user-attachments/assets/26436ba0-bfc3-45e8-954c-36bf796fca51" />
+
+
 ## Ponte Estaiada
 
 A ponte estaiada é um tipo de estrutura em que o tabuleiro é sustentado por cabos inclinados (estais), ligados a uma ou mais torres (mastros). Diferente da ponte de viga, que depende exclusivamente da rigidez da própria viga para resistir aos esforços, na ponte estaiada parte significativa da carga é transferida do tabuleiro para os estais e, destes, para a torre, que por sua vez transmite os esforços à fundação.
@@ -58,3 +61,5 @@ Uma das principais características desse modelo é que sua **vantagem estrutura
 Para o projeto da Equipe Kaizen, a ponte estaiada apresenta como principal limitação o fato de sua **vantagem estrutural central** (vencer vãos longos sem apoios intermediários) não se aplicar de forma significativa ao vão de 80 cm estabelecido no desafio, já que esse vão pode ser vencido diretamente por estruturas mais simples, sem necessidade de torre.
 
 Além disso, como o processo de união permitido é exclusivamente por colagem, a ancoragem dos estais (ponto que, em pontes reais, concentra forças elevadas e normalmente depende de sistemas metálicos ajustáveis) se tornaria um ponto crítico de fragilidade na escala do protótipo. Somado a isso, a torre representaria massa adicional que competiria diretamente com o limite de 2 kg estabelecido, sem trazer ganho proporcional na capacidade de carga.
+
+<img width="400" height="200" alt="ponte-estaiada-tipos-e-caracteristicas" src="https://github.com/user-attachments/assets/76b04bcb-475f-4692-b65b-cc8ad4803280" />
