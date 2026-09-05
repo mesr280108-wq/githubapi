@@ -21,3 +21,9 @@
 ### ULMA CONSTRUCTION. Tipos de pontes e viadutos existentes e suas características. Disponível em: ULMA Construction⁠. Acesso em: 4 set. 2026.
 
 ### GOVERNO DO ESTADO DE SANTA CATARINA. Informações sobre a Ponte Hercílio Luz. Acesso disponível em: Google Acadêmico. Acesso em: 4 set. 2026.
+
+### ENCYCLOPAEDIA BRITANNICA. Truss bridge. Disponível em: Encyclopaedia Britannica⁠. Acesso em: 4 set. 2026.
+
+### ARETE STRUCTURES. What types of truss bridges are there? Which to select? Disponível em: Arete Structures⁠. Acesso em: 4 set. 2026.
+
+### SIENGE. Tipos de pontes: características, aplicações e exemplos no Brasil. Disponível em: Sienge⁠. Acesso em: 4 set. 2026.
