@@ -4,26 +4,27 @@
 
 ### COUTO, L. F. M. et al. Análise estrutural e dimensionamento de ponte estaiada. Anais do Conic-Semesp, v. 1, 2013.
 
-### ENCYCLOPAEDIA BRITANNICA. Beam bridge. Disponível em: Encyclopaedia Britannica⁠. Acesso em: 4 set. 2026.
+### ENCYCLOPAEDIA BRITANNICA. Beam bridge. Disponível em: Encyclopaedia Britannica⁠. 
 
 ### GOMES, R. R. S.; JUDICE, F. M. S. Aspectos técnicos e construtivos do projeto de uma ponte estaiada: estudo de caso da Ponte do Saber, Rio de Janeiro.
 
-### GOLDEN GATE BRIDGE, HIGHWAY AND TRANSPORTATION DISTRICT. Informações sobre a estrutura e o funcionamento da Golden Gate Bridge. Disponível em: Golden Gate Bridge, Highway and Transportation District⁠. Acesso em: 4 set. 2026.
+### GOLDEN GATE BRIDGE, HIGHWAY AND TRANSPORTATION DISTRICT. Informações sobre a estrutura e o funcionamento da Golden Gate Bridge. Disponível em: Golden Gate Bridge, Highway and Transportation District⁠. 
 
-### GOLDEN GATE BRIDGE, HIGHWAY AND TRANSPORTATION DISTRICT. Informações sobre manutenção e conservação da Golden Gate Bridge. Disponível em: Golden Gate Bridge, Highway and Transportation District⁠. Acesso em: 4 set. 2026.
+
+### GOLDEN GATE BRIDGE, HIGHWAY AND TRANSPORTATION DISTRICT. Informações sobre manutenção e conservação da Golden Gate Bridge. Disponível em: Golden Gate Bridge, Highway and Transportation District⁠. 
 
 ### SANTOS, P.; MORAIS, M.; VARUM, H. Estudo da viabilidade de construção de pontes em arco. BE2008 – Encontro Nacional Betão Estrutural, 2008.
 
-### SIENGE. Tipos de pontes: características, aplicações e exemplos no Brasil. Disponível em: Sienge⁠. Acesso em: 4 set. 2026.
+### SIENGE. Tipos de pontes: características, aplicações e exemplos no Brasil. Disponível em: Sienge⁠. 
 
 ### SOUSA, G. N. A. C. de. Estudo do comportamento estrutural de uma ponte em arco. PQDT-Global, 2012.
 
-### ULMA CONSTRUCTION. Tipos de pontes e viadutos existentes e suas características. Disponível em: ULMA Construction⁠. Acesso em: 4 set. 2026.
+### ULMA CONSTRUCTION. Tipos de pontes e viadutos existentes e suas características. Disponível em: ULMA Construction⁠.
 
-### GOVERNO DO ESTADO DE SANTA CATARINA. Informações sobre a Ponte Hercílio Luz. Acesso disponível em: Google Acadêmico. Acesso em: 4 set. 2026.
+### GOVERNO DO ESTADO DE SANTA CATARINA. Informações sobre a Ponte Hercílio Luz. Acesso disponível em: Google Acadêmico. 
 
-### ENCYCLOPAEDIA BRITANNICA. Truss bridge. Disponível em: Encyclopaedia Britannica⁠. Acesso em: 4 set. 2026.
+### ENCYCLOPAEDIA BRITANNICA. Truss bridge. Disponível em: Encyclopaedia Britannica⁠. 
 
-### ARETE STRUCTURES. What types of truss bridges are there? Which to select? Disponível em: Arete Structures⁠. Acesso em: 4 set. 2026.
+### ARETE STRUCTURES. What types of truss bridges are there? Which to select? Disponível em: Arete Structures⁠. 
 
-### SIENGE. Tipos de pontes: características, aplicações e exemplos no Brasil. Disponível em: Sienge⁠. Acesso em: 4 set. 2026.
+### SIENGE. Tipos de pontes: características, aplicações e exemplos no Brasil. Disponível em: Sienge⁠. 
