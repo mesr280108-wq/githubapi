@@ -76,6 +76,33 @@ A proposta é desenvolver uma solução que permita:
 | Revisar e finalizar a entrega | Equipe | 03/09 | 04/09 |
 
 
+## Cronograma de Evolução do Projeto — Etapa 2
+
+| Tarefas                                               | Colaborador                | Início | Fim   |
+| ----------------------------------------------------- | -------------------------- | ------ | ----- |
+|Pesquisa sobre comportamento estrutural e eficiência de pontes treliçadas| Maria Eduarda | 08/09 | 10/09|  
+| Pesquisa sobre materiais estruturais                  | Julia                      | 08/09  | 10/09 |
+| Pesquisa sobre geometrias e configurações de treliças | Rosario                    | 08/09  | 10/09 |
+| Pesquisa sobre colas e tipos de juntas                | João Pedro                 | 08/09  | 10/09 |
+| Cálculos preliminares da estrutura                    | Heitor                     | 08/09  | 15/09 |
+| Desenho técnico preliminar da ponte                   | Heitor                     | 15/09  | 17/09 |
+| Definição dos materiais para os testes                | Julia/ Maria Eduarda       | 11/09  | 11/09 |
+| Definição da geometria da treliça                     | Rosario + Heitor           | 12/09  | 12/09 |
+| Preparação dos testes preliminares                    | Todos                      | 13/09  | 13/09 |
+| Testes de materiais                                   | Todos                      | 14/09  | 14/09 |
+| Testes de colas e juntas                              | João Pedro + Todos         | 14/09  | 14/09 |
+| Registro e organização dos resultados dos testes      | Maria Eduarda              | 15/09  | 16/09 |
+| Análise dos resultados dos testes                     | Todos                      | 16/09  | 16/09 |
+| Revisão dos cálculos com base nos testes              | Heitor                     | 17/09  | 18/09 |
+| Atualização do desenho técnico                        | Heitor                     | 17/09  | 19/09 |
+| Verificação dos requisitos e restrições               |Todos                       | 18/09  | 18/09 |
+| Registro das decisões e justificativas da equipe      | Maria Eduarda  + Todos     | 19/09  | 20/09 |
+| Organização da documentação no GitHub                 | Maria Eduarda              | 19/09  | 22/09 |
+| Revisão técnica da solução                            | Todos                      | 21/09  | 21/09 |
+| Correção das pendências                               | Responsável de cada tarefa | 22/09  | 23/09 |
+| Finalização da documentação da Etapa 2                | Maria Eduarda              | 23/09  | 23/09 |
+| Revisão e preparação da apresentação                  | Todos                      | 24/09  | 24/09 |
+| Apresentação e validação da solução com o cliente     | Todos                      | 25/09  | 25/09 |
 
   
 # Registro das Sprints
