@@ -84,10 +84,10 @@ A proposta é desenvolver uma solução que permita:
 | Pesquisa sobre materiais estruturais                  | Julia                      | 08/09  | 10/09 |
 | Pesquisa sobre geometrias e configurações de treliças | Rosario                    | 08/09  | 10/09 |
 | Pesquisa sobre colas e tipos de juntas                | João Pedro                 | 08/09  | 10/09 |
-| Cálculos preliminares da estrutura                    | Heitor                     | 08/09  | 15/09 |
-| Desenho técnico preliminar da ponte                   | Heitor                     | 15/09  | 17/09 |
-| Definição dos materiais para os testes                | Julia/ Maria Eduarda       | 11/09  | 11/09 |
-| Definição da geometria da treliça                     | Rosario + Heitor           | 12/09  | 12/09 |
+| Cálculos preliminares da estrutura                    | Maria Eduarda              | 08/09  | 15/09 |
+| Desenho técnico(Croquis) preliminar da ponte          | Heitor                     | 15/09  | 17/09 |
+| Definição dos materiais para os testes                | Julia                      | 11/09  | 11/09 |
+| Definição da geometria da treliça                     | Maria Eduarda              | 12/09  | 12/09 |
 | Preparação dos testes preliminares                    | Todos                      | 13/09  | 13/09 |
 | Testes de materiais                                   | Todos                      | 14/09  | 14/09 |
 | Testes de colas e juntas                              | João Pedro + Todos         | 14/09  | 14/09 |
