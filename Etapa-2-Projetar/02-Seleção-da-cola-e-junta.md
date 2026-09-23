@@ -62,3 +62,4 @@ União paralela ao longo da extensão das bordas das peças.
 3. **QUIMICOLLA.** *Você conhece os principais tipos de cola química para o seu dia a dia?* Disponível em: <https://quimicolla.com.br/voce-conhece-os-principais-tipos-de-cola-quimica-para-seu-dia-a-dia/>.
 4. **RICLA RESINAS.** *Tipos de Cola e Suas Aplicações.* Disponível em: <https://riclaresinas.com.br/cola/tipos-de-cola/>.
 5. **MADEIREIRA SÃO JOSÉ.** *Colas para madeiras: quais os tipos e benefícios?* Disponível em: <https://www.madeireirasaojose.com/colas-para-madeiras-quais-os-tipos-e-beneficios/>.
+6. **Arauco.** *Cola para madeira: o que considerar na hora de escolher?* Disponível em: <https://arauco.com.br/blog/cola-para-madeira-o-que-considerar-na-hora-de-escolher/>. 
