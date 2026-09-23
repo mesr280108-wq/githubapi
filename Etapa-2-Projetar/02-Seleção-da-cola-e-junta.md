@@ -52,6 +52,7 @@ União de dois elementos dispostos a 90° em formato de "L", podendo ser aberta 
 União paralela ao longo da extensão das bordas das peças.
 * **Aplicação e Comportamento:** Utilizada para unir réguas ou varetas lado a lado para formar superfícies ou painéis mais largos. Trabalha muito bem com colas para madeira (PVA alifática), aproveitando as fibras longitudinais.
 
+## Justificativa da escolha
 ---
 
 ## 📚 Referências Bibliográficas
