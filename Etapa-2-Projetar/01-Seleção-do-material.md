@@ -78,3 +78,6 @@ Para este projeto, os elementos estruturais precisam ser unidos exclusivamente p
 Nesse contexto, a madeira apresenta maior compatibilidade com o processo de fabricação proposto, principalmente devido à facilidade de preparação das superfícies, corte das peças e execução das uniões. Além disso, o formato dos palitos de madeira se adapta diretamente à função de barras lineares da treliça.
 
 Portanto, o PVC foi considerado uma alternativa tecnicamente possível, porém menos conveniente para o processo de fabricação selecionado, especialmente quando considerados simultaneamente geometria, montagem e sistema de união. Os palitos de madeira apresentam maior compatibilidade com o método construtivo adotado e com a formação das barras da estrutura treliçada.
+
+# Decisão Final
+O material final é o palito de madeira, devido ao seu desempenho estrutural, ou seja, boa combinação entre resistência e massa, contribuindo para manter a ponte abaixo dos 2 kg; fabricação de fácil corte, montagem e repetição; geometria conveniente devido ao seu formato adequado para elementos lineares de uma treliça; métodos de união compatível com os adesivos permitidos; baixo custo e fácil aquisição; e disponibilidade, já qie é facilmente encontrado para construção do protótipo.
