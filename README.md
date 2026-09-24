@@ -91,18 +91,14 @@ A proposta é desenvolver uma solução que permita:
 | Preparação dos testes preliminares                    | Todos                      | 13/09  | 13/09 |
 | Testes de materiais                                   | Todos                      | 14/09  | 14/09 |
 | Testes de colas e juntas                              | João Pedro + Todos         | 14/09  | 14/09 |
-| Registro e organização dos resultados dos testes      | Maria Eduarda              | 15/09  | 16/09 |
 | Análise dos resultados dos testes                     | Todos                      | 16/09  | 16/09 |
 | Revisão dos cálculos com base nos testes              | Heitor                     | 17/09  | 18/09 |
 | Atualização do desenho técnico                        | Heitor                     | 17/09  | 19/09 |
-| Verificação dos requisitos e restrições               |Todos                       | 18/09  | 18/09 |
-| Registro das decisões e justificativas da equipe      | Maria Eduarda  + Todos     | 19/09  | 20/09 |
 | Organização da documentação no GitHub                 | Maria Eduarda              | 19/09  | 22/09 |
 | Revisão técnica da solução                            | Todos                      | 21/09  | 21/09 |
-| Correção das pendências                               | Responsável de cada tarefa | 22/09  | 23/09 |
 | Finalização da documentação da Etapa 2                | Maria Eduarda              | 23/09  | 23/09 |
 | Revisão e preparação da apresentação                  | Todos                      | 24/09  | 24/09 |
-| Apresentação e validação da solução com o cliente     | Todos                      | 25/09  | 25/09 |
+
 
   
 # Registro das Sprints
@@ -110,7 +106,7 @@ A proposta é desenvolver uma solução que permita:
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | Etapa 01                | 04/09/2026  | Feito  | [Etapa 1](Etapa-1-Conceber)  |
-| Etapa 02                | 25/09/2026  | A fazer  | [MVP](MVP/sp2.md)  |
+| Etapa 02                | 25/09/2026  | A fazer  | [Etapa_2](Etapa-2-Projetar)  |
 | Etapa 03                | 30/10/2026 | A fazer  | [MVP](MVP/sp3.md)  |
 | Etapa 04               |  23/11/2026  | A fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026  | A fazer  | [MVP](#)  |
