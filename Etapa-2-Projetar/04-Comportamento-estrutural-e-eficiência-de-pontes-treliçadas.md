@@ -10,3 +10,5 @@ A eficiência estrutural de uma treliça não depende apenas da quantidade de ba
 
 Nesse contexto, diferentes configurações de treliças, como Pratt, Howe e Warren, apresentam comportamentos distintos. Na treliça Pratt, por exemplo, as diagonais trabalham predominantemente à tração sob carregamentos gravitacionais usuais, enquanto na Howe as diagonais trabalham predominantemente à compressão. Já na treliça Warren, as diagonais são alternadas, podendo trabalhar tanto à tração quanto à compressão conforme a posição e a distribuição das cargas.
 
+### Referências 
+ Engineering Statics; Engineering LibreTexts; Federal Highway Administration (FHWA).
