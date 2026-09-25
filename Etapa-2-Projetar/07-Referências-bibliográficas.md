@@ -1,8 +1,8 @@
-# **Referências Bibliográficas**
-## GREEN, D. W.; WINANDY, J. E.; KRETSCHMANN, D. E. Mechanical Properties of Wood. USDA Forest Service, Forest Products Laboratory.
+## **Referências Bibliográficas**
+### GREEN, D. W.; WINANDY, J. E.; KRETSCHMANN, D. E. Mechanical Properties of Wood. USDA Forest Service, Forest Products Laboratory.
 
-## Novel engineered wood and bamboo composites for structural applications. Construction and Building Materials. 
+### Novel engineered wood and bamboo composites for structural applications. Construction and Building Materials. 
 
-## Bamboo material characterisation. Nonconventional and Vernacular Construction Materials.
+### Bamboo material characterisation. Nonconventional and Vernacular Construction Materials.
 
-## Engineered bamboo for structural applications. Nonconventional and Vernacular Construction Materials.
+### Engineered bamboo for structural applications. Nonconventional and Vernacular Construction Materials.
