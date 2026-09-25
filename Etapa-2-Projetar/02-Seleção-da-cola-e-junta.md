@@ -20,7 +20,8 @@ Trata-se de uma variação da cola PVA desenvolvida especialmente para marcenari
 Adesivo termoplástico aplicado via fusão térmica. Funciona por solidificação física à medida que esfria, apresentando alta versatilidade de aderência nos mais diversos tipos de materiais.
 * **Vantagens:** Secagem/solidificação quase instantânea e ausência de redução de volume (não perde massa durante a cura, diferente do PVA).
 * **Desvantagens:** Baixa resistência ao calor, fluência sob carga constante (creep) e fraca aderência em superfícies muito lisas (como vidro e azulejos) ou sob esforços estruturais elevados.
-
+  ![Texto alternativo para a imagem](https://github.com/mesr280108-wq/githubapi/blob/3d61b44dbdd943e17b7b1d9deb265857b8aa819e/Etapa-2-Projetar/WhatsApp%20Image%202026-09-24%20at%2021.39.18.jpeg)
+  
 ### Cola Epóxi (Resina Termofixa de Dois Componentes)
 Adesivo estrutural bi-componente (resina e endurecedor) que reage quimicamente durante a cura. 
 * **Vantagens:** Elevada resistência mecânica, química e à água. Excelente adesão entre materiais heterogêneos (madeira, plásticos, metais) e excelente capacidade de preenchimento de folgas sem perda de volume.
