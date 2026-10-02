@@ -106,7 +106,7 @@ A proposta é desenvolver uma solução que permita:
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | Etapa 01                | 04/09/2026  | Feito  | [Etapa 1](Etapa-1-Conceber)  |
-| Etapa 02                | 25/09/2026  | A fazer  | [Etapa_2](Etapa-2-Projetar)  |
+| Etapa 02                | 25/09/2026  | Feito  | [Etapa_2](Etapa-2-Projetar)  |
 | Etapa 03                | 30/10/2026 | A fazer  | [MVP](MVP/sp3.md)  |
 | Etapa 04               |  23/11/2026  | A fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026  | A fazer  | [MVP](#)  |
