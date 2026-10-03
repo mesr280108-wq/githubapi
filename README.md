@@ -81,23 +81,19 @@ A proposta é desenvolver uma solução que permita:
 | Tarefas                                               | Colaborador                | Início | Fim   |
 | ----------------------------------------------------- | -------------------------- | ------ | ----- |
 |Pesquisa sobre comportamento estrutural e eficiência de pontes treliçadas| Maria Eduarda | 08/09 | 10/09|  
-| Pesquisa sobre materiais estruturais                  | Julia                      | 08/09  | 10/09 |
-| Pesquisa sobre geometrias e configurações de treliças | Rosario                    | 08/09  | 10/09 |
-| Pesquisa sobre colas e tipos de juntas                | João Pedro                 | 08/09  | 10/09 |
-| Cálculos preliminares da estrutura                    | Maria Eduarda              | 08/09  | 15/09 |
-| Desenho técnico(Croquis) preliminar da ponte          | Heitor                     | 15/09  | 17/09 |
-| Definição dos materiais para os testes                | Julia                      | 11/09  | 11/09 |
-| Definição da geometria da treliça                     | Maria Eduarda              | 12/09  | 12/09 |
-| Preparação dos testes preliminares                    | Todos                      | 13/09  | 13/09 |
-| Testes de materiais                                   | Todos                      | 14/09  | 14/09 |
-| Testes de colas e juntas                              | João Pedro + Todos         | 14/09  | 14/09 |
-| Análise dos resultados dos testes                     | Todos                      | 16/09  | 16/09 |
-| Revisão dos cálculos com base nos testes              | Heitor                     | 17/09  | 18/09 |
-| Atualização do desenho técnico                        | Heitor                     | 17/09  | 19/09 |
-| Organização da documentação no GitHub                 | Maria Eduarda              | 19/09  | 22/09 |
-| Revisão técnica da solução                            | Todos                      | 21/09  | 21/09 |
-| Finalização da documentação da Etapa 2                | Maria Eduarda              | 23/09  | 23/09 |
-| Revisão e preparação da apresentação                  | Todos                      | 24/09  | 24/09 |
+| Pesquisa sobre materiais estruturais                     | Julia                      | 08/09  | 10/09 |
+| Pesquisa sobre geometrias e configurações de treliças    | Rosario                    | 08/09  | 10/09 |
+| Pesquisa sobre colas e tipos de juntas                   | João Pedro                 | 08/09  | 10/09 |
+| Desenho técnico(Croquis) preliminar da ponte             | Heitor                     | 15/09  | 17/09 |
+| Definição dos materiais para os testes                   | Julia                      | 11/09  | 11/09 |
+| Definição da geometria da treliça                        | Maria Eduarda              | 12/09  | 12/09 |
+| Preparação dos testes preliminares                       | Todos                      | 13/09  | 13/09 |
+| Testes de materiais                                      | Todos                      | 14/09  | 14/09 |
+| Testes de colas e juntas                                 | Todos                      | 14/09  | 16/09 |
+| Análise dos resultados dos testes                        | Todos                      | 16/09  | 16/09 |
+| Organização da documentação no GitHub                    | Maria Eduarda              | 19/09  | 22/09 |
+| Finalização da documentação da Etapa 2                   | Maria Eduarda              | 23/09  | 23/09 |
+| Revisão e preparação da apresentação                     | Todos                      | 24/09  | 24/09 |
 
 
   
@@ -105,9 +101,9 @@ A proposta é desenvolver uma solução que permita:
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| Etapa 01                | 04/09/2026  | Feito  | [Etapa 1](Etapa-1-Conceber)  |
-| Etapa 02                | 25/09/2026  | Feito  | [Etapa_2](Etapa-2-Projetar)  |
-| Etapa 03                | 30/10/2026 | A fazer  | [MVP](MVP/sp3.md)  |
-| Etapa 04               |  23/11/2026  | A fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 03/12/2026  | A fazer  | [MVP](#)  |
+| Etapa 01                | 04/09/2026  | Feito    | [Etapa 1](Etapa-1-Conceber)  |
+| Etapa 02                | 25/09/2026  | Feito    | [Etapa_2](Etapa-2-Projetar)  |
+| Etapa 03                | 30/10/2026  | A fazer  | [Etapa_3](MVP/sp3.md)  |
+| Etapa 04                |  23/11/2026 | A fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções       | 03/12/2026  | A fazer  | [MVP](#)  |
 
