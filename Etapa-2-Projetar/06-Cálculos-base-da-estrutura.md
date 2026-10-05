@@ -122,17 +122,3 @@ A análise preliminar indica que o desempenho da ponte dependerá não somente d
 
 Por esse motivo, os cálculos serão complementados pelos testes experimentais dos materiais e das uniões.
 
----
-
-### Referências 
-https://eaulas.usp.br/portal/video.action?idItem=30284
-
-https://engineeringstatics.org/
-
-https://engineeringstatics.org/method-of-sections.html
-
-https://lcf.esalq.usp.br/disciplina/detalhe?sgldis=LCF0623&tipo=GR
-
-https://producaocientifica.eesc.usp.br/producao/2016DO_ArefKaliloLimaKzam.pdf
-
-https://teses.usp.br/teses/disponiveis/18/18134/tde-22042010-082927/pt-br.html
