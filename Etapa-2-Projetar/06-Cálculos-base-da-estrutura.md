@@ -11,12 +11,12 @@ Para os cálculos preliminares, foram adotadas as seguintes dimensões e condiç
 | Parâmetro                    | Valor adotado |
 | ---------------------------- | ------------: |
 | Vão livre                    |         80 cm |
-| Comprimento preliminar       |        100 cm |
-| Largura preliminar           | entre 12 a 20 cm |
+| Comprimento preliminar       |        94,5 cm |
+| Largura preliminar           | 13,5 cm |
 | Altura preliminar da treliça |     até 40 cm |
 | Massa do suporte de ensaio   |          1 kg |
 | Carga mínima adicional       |          5 kg |
-| Massa total considerada      |          6 kg |
+| Massa total considerada      |         2 kg |
 | Aceleração da gravidade      |     9,81 m/s² |
 
 **Observação:** as dimensões utilizadas nesta etapa são preliminares e poderão ser modificadas após os testes dos materiais, das uniões e a análise estrutural.
