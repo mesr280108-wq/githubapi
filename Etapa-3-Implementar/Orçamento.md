@@ -7,3 +7,6 @@ Qtd: 1 (250g)
 Qtd: 5 (contendo 100 unidades cada)
 
 <img width="400" height="566" alt="image" src="https://github.com/user-attachments/assets/298f639b-acbe-4382-8b93-c55005fc3e84" />
+
+## Total Disponível do Orçamento
+R$ 40,61
