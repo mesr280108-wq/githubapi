@@ -26,6 +26,6 @@ Os principais aspectos discutidos durante essa etapa do projeto foram as juntas 
 
 #
 
-
+Essas análises permitem que seja desenvolvido um padrão de montagem da estrutura, permitindo que, tendo em mão os projetos, qualquer construtor possa reproduzir, retomar ou praticar a engenharia reversa. Isso é possível através de um processo de montagem padronizado, permitindo criar uma linha de produção desde a montagem das treliças, até a disposição da passarela da ponte. 
 
 
