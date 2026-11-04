@@ -1,1 +1,1 @@
-
+A análise de processo de fabricação foi feita com base nos desenhos elaborados em CAD, comparando a viabilidade da montagem considerando as divergências em superfícies de contato entre o software e a prática. As principais análises foram feitas nas juntas das treliças e passarelas, já que, dentro do projeto, nãoestá prevista a fundição dos componentes da ponte. 
